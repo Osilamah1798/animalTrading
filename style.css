@@ -1,0 +1,99 @@
+.card{
+    background-color: #76885B;
+
+    border: 3px solid #627254; 
+    width: 30%;
+    margin: 30px auto;
+    padding: 50px, auto;
+    box-shadow: 3px 3px 10px #627254 ;
+    border-radius: 10px;
+    
+}
+
+.elp1 { 
+    display: block;
+    
+    margin: auto;
+    width: 100%;
+    
+
+}
+
+.elp1:hover{
+    opacity: 0;
+    transition: 1s;
+
+}
+.img-ctn {
+    width: 60%;
+    border: 6px solid #627254;
+    margin: 5px auto;
+    text-align: center;
+    background-image: url(img/giphy.gif) ;
+    
+    border-radius: 10px;
+
+    background-repeat: no-repeat;
+ 
+  background-size:135% 135%;
+  background-position: center;
+ 
+    /* 
+     background-attachment:;
+     background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat; */
+}
+
+.info{
+    font-weight: bold;
+}
+
+.text-ctn{ 
+    width: 90%;
+    text-align: left;
+    font-size: 0.9rem;
+    margin:10px auto ;
+    padding: 5px;
+    
+}
+.title-ctn{
+    text-align: center;
+    
+}
+#title{ 
+    border: 4px solid #627254;
+    padding: 5px 2px;
+    box-shadow: 3px 3px 10px #627254;
+    text-align: center;
+    font-size: 1.5rem;
+    margin : 10px auto;
+    width: 60%;
+    border-radius: 5px;
+}
+
+body{
+    font-size: 0.625%;
+    overflow: hidden;
+    font-family: Georgia;
+    color: #EEEEEE;
+    background-color: #EEEEEE;
+} 
+hr{
+    width :30%;
+    border-style: inset;
+    
+  
+    padding: none;
+    margin: none;
+
+
+
+
+}
+
+.info-div{
+    text-align: center;
+}
+
+
